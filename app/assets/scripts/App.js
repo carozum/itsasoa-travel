@@ -1,1 +1,2 @@
-alert("Hello this is just a test!!!!!! rrrrr");
+import "../styles/styles.css"
+// alert("Hello this is just a test!!!!!! rrrrr");
